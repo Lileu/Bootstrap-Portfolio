@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Week 2 homework
+Assignment One (Bootstrap)
