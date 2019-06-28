@@ -144,7 +144,11 @@ background: #4aaaa5;
 
 
   /*portfolio page*/
-
+  .card-img-top {
+    border-radius: 0;
+  }
+  
+  
   .card {
     position: relative;
     width: 100%;
@@ -152,12 +156,9 @@ background: #4aaaa5;
     overflow: auto;
     border: 0;
     margin: 20px 0 25px;
+    border-radius: 0;
   }
 
-.card-deck {
-  margin: 0 0 20px 0;
-
-}
 
 .card h3 {
   position: absolute;
