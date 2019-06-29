@@ -12,6 +12,3 @@ Assignment One (Bootstrap)
 * placeholder images from http://lorempixel.com/
 * css reset file
 
-
-## Stuff I learned
-
